@@ -16,6 +16,7 @@ lastLineofFilename=$(grep $terminatedActivityString $fileName);
 if [[ $lastLineofFilename == $terminatedActivityString ]];
 then
     echo "Activity Finished";
+    $(blink1-tool -t 300 --random=100);      # Every 2 seconds new random color
 else
     echo "Activity NOT finished!!!!!";
 fi
