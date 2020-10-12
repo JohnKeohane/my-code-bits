@@ -1,3 +1,3 @@
-Simple Scripts for Blink1-tool
+Scripts Sketches and test code
 
 Use at your own risk. 
