@@ -1,0 +1,7 @@
+#General
+.DS_Store
+
+#for now ignore these files as they contain password and usernames that I don't want to be publically known.
+config.sh
+isRipComplete.sh
+.gitignore
